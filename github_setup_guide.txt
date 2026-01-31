@@ -1,0 +1,22 @@
+GitHub配置上传指南
+
+要完成自动上传，我需要您提供以下信息：
+
+1. GitHub用户名
+2. GitHub个人访问令牌（Personal Access Token）
+
+创建个人访问令牌的步骤：
+1. 登录GitHub网站
+2. 点击右上角头像，选择Settings
+3. 在左侧菜单中选择Developer settings
+4. 选择Personal access tokens -> Tokens (classic)
+5. 点击Generate new token
+6. 选择repo权限（Full control of private repositories）
+7. 点击Generate token
+8. 复制生成的token（不要关闭页面，马上就要用）
+
+注意：请确保您的仓库设置为私有，以免配置文件泄露。
+
+请提供以下信息：
+- GitHub用户名：
+- 个人访问令牌：

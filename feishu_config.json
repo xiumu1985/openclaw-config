@@ -1,0 +1,37 @@
+{
+  "app_settings": {
+    "app_name": "飞书",
+    "executable_paths": [
+      "C:\\Users\\admin\\AppData\\Local\\Bytedance\\Feishu\\Application\\feishu.exe",
+      "C:\\Users\\%USERNAME%\\AppData\\Local\\Bytedance\\Feishu\\Application\\feishu.exe",
+      "C:\\Program Files\\Feishu\\feishu.exe",
+      "C:\\Program Files (x86)\\Feishu\\feishu.exe"
+    ],
+    "protocol_uri": "larksuite://"
+  },
+  "gui_coordinates": {
+    "search_box": {
+      "x_ratio": 0.15,
+      "y_ratio": 0.08
+    },
+    "contact_item": {
+      "x_ratio": 0.15,
+      "y_ratio": 0.18
+    },
+    "message_input": {
+      "x_ratio": 0.40,
+      "y_ratio": 0.85
+    }
+  },
+  "timing_settings": {
+    "pause_after_action": 0.5,
+    "app_launch_wait_time": 5,
+    "search_wait_time": 2,
+    "contact_select_wait_time": 2
+  },
+  "features": {
+    "enable_chinese_input": true,
+    "use_image_recognition": false,
+    "require_user_confirmation": true
+  }
+}
